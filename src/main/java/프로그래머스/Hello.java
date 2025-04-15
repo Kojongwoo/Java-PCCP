@@ -1,4 +1,4 @@
-package com.pccp;
+package 프로그래머스;
 
 public class Hello {
     public static void main(String[] args) {
